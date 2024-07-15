@@ -1,29 +1,22 @@
-<a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?tab=readme-ov-file"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="teerthjj912" /></a>
-<h1 align="center">Hi 👋, I'm Teerth</h1>
-<h3 align="center">A Passionate Developer from India.</h3>
+<a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?tab=readme-ov-file"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="sakshamXcode" /></a>
+<h1 align="center">Hi 👋, I'm Saksham</h1>
+<h3 align="center">A Passionate Web Developer and Coder from the land of Mahakaal.</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshamXcode" alt="sakshamXcode" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teerthjj912" alt="teerthjj912" /></a> </p>
+- 🔭 I’m Currently Working on ** Some ReactJS projects and improving my Web Development Skills. **
 
-- 🔭 I’m currently working on **some projects and improving my Web Development skills.**
+- 🌱 I’m Currently Learning ReactJS under Jonas Schmedtmann in the All-About-React-Course.**
 
-- 🌱 I’m currently learning **JS, and focusing on UI/UX design as well.**
+- 👯 I’m Looking to Collaborate on **Open Source Projects.**
 
-- 👯 I’m looking to collaborate on **Open Source Projects.**
+- 📫 How to reach me: sakshamsingh4848@gmail.com.**
 
-- 📝 I regularly write articles on [My Letterboxd Handle!](https://letterboxd.com/teerthjj912/)
-
-- 💬 Ask me about **stuff you would regret later on!**
-
-- 📫 How to reach me: **teerthjj2004@gmail.com**
-
-- ⚡ Fun fact: **My film knowledge is impeccable.**
+- ⚡ Fun fact: **You Cannot Beat Me at Cricket.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/teerthjj912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teerthjj912" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/teerthjj912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teerthjj912" height="30" width="40" /></a>
-<a href="https://instagram.com/teerthjj912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teerthjj912" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/teerthjj912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="teerthjj912" height="30" width="40" /></a>
+<a href="https://x.com/https://x.com/SakshamSin70723" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakshamXcode" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saksham-singh-a00158272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshamXcode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
