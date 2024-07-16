@@ -1,15 +1,15 @@
 <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?tab=readme-ov-file"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="sakshamXcode" /></a>
 <h1 align="center">Hi 👋, I'm Saksham</h1>
-<h3 align="center">A Passionate Web Developer and Coder from the land of Mahakaal.</h3>
+<h3 align="center">A Passionate Web Developer and Coder.</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshamXcode" alt="sakshamXcode" /></a> </p>
 
-- 🔭 I’m Currently Working on ** Some ReactJS projects and improving my Web Development Skills. **
+- 🔭 I’m Currently Working on **Some ReactJS projects and improving my Web Development Skills.**
 
-- 🌱 I’m Currently Learning ReactJS under Jonas Schmedtmann in the All-About-React-Course.**
+- 🌱 I’m Currently Learning **ReactJS under Jonas Schmedtmann in the All-About-React-Course.**
 
 - 👯 I’m Looking to Collaborate on **Open Source Projects.**
 
-- 📫 How to reach me: sakshamsingh4848@gmail.com.**
+- 📫 How to reach me: **sakshamsingh4848@gmail.com.**
 
 - ⚡ Fun fact: **You Cannot Beat Me at Cricket.**
 
