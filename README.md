@@ -4,18 +4,17 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Saksham Singh</h1>
-<h3 align="center">🚀 Full-Stack Web Developer & Aspiring ML Engineer (Data Science)</h3>
+<h3 align="center">Full-Stack Web Developer & Aspiring Machine Learning Engineer (Data Science)</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **Full-Stack Web Development integrated with AI features**  
-- 🤖 Building **Machine Learning projects** focused on **real-world Data Science applications**  
-- 💡 Exploring how frontend + backend + ML pipelines come together in production-level apps  
-- 👯 Always open to collaborating on **AI-enabled web apps**, **ML pipelines**, or **open-source tools**  
-- 📫 Reach me anytime at: **sakshamsingh4848@gmail.com**  
-- ⚡ Fun fact: *I debug better with cricket highlights in the background 🏏💻*
+- 💻 Building **full-stack web applications** using the MERN stack and integrating AI/ML features  
+- 📊 Creating **machine learning projects** for real-world **data science applications**  
+- 🔍 Passionate about solving real problems with code — from user interfaces to model pipelines  
+- 📫 Reach me at **sakshamsingh4848@gmail.com**  
+- 🤝 Open to collaboration in **ML-backed web apps**, **AI projects**, and **open-source** contributions
 
 ---
 
@@ -33,7 +32,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 💼 Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" width="40" />
@@ -50,14 +49,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakshamXcode&theme=onedark&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -68,8 +59,8 @@
 
 ---
 
-### 💡 Quote of the Day
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://readme-quote.vercel.app/api?theme=dark&font=monospace" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sakshamXcode&theme=onedark&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies" />
 </p>
